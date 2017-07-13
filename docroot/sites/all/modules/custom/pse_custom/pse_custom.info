@@ -2,3 +2,5 @@ name = PSE Custom
 description = Custom functionality for PSE
 package = PSE Development
 core = 7.x
+
+files[] = views/handlers/pse_custom_field_handler_resources_format.inc
