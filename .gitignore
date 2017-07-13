@@ -1,0 +1,15 @@
+# Ignore configuration files that may contain sensitive information.
+docroot/sites/*/settings*.php
+docroot/sites/default/settings.php
+
+# Ignore paths that contain user-generated content.
+docroot/sites/*/files
+docroot/sites/default/files
+docroot/sites/*/private
+
+# PDC used these folders for user content
+docroot/public
+docroot/private
+
+.DS_Store
+.idea/
