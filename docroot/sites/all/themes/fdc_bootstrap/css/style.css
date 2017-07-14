@@ -1256,6 +1256,15 @@ form .checkout_review label {
 .table-events .pse-involvement {
 	white-space: nowrap;
 }
+footer .social-media-links {
+	float: right;
+}
+footer .social-media-links ul {
+	list-style:none;
+}
+footer .social-media-links li {
+	display:inline-block;
+}
 .table-events .cell-flag {
 	width: 32px;
 }
