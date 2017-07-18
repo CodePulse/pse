@@ -1041,7 +1041,7 @@ footer#cta {
 
 	margin-left: 720px;
 
-	top: 76px;
+	top: 56px;
 
 	min-height: 25px;
 
@@ -1071,7 +1071,7 @@ footer#ctaz {
 
 	margin-left: 720px;
 
-	top: 44px;
+	top: 29px;
 
 	min-height: 25px;
 
@@ -1088,7 +1088,10 @@ footer#ctaz {
 	color: #006c85;
 	left: 240px;
 }
-
+.social-section a img {
+	height: 20px;
+	width: auto;
+}
 
 footer#ctaz {
 	padding:0 0 5px 10px;
