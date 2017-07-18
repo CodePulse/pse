@@ -1085,12 +1085,20 @@ footer#ctaz {
 
 	border-bottom-left-radius: 4px;
 
-	color: #fff;
+	color: #006c85;
 	left: 240px;
 }
 
 
-
+footer#ctaz {
+	padding:0 0 5px 10px;
+}
+footer#ctaz p {
+	margin:0;
+}
+div.home footer#ctaz {
+	color:#fff;
+}
 div.home footer#ctaz,
 div.home footer#cta {
 
