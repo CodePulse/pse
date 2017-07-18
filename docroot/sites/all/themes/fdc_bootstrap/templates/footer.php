@@ -1,13 +1,14 @@
+<span class="contact">
 
 <footer id="cta">
-
 	<a href="/contact-pse">Contact us</a>
-	<?php
-	$social_media = module_invoke('social_media_links', 'block_view', 'social-media-links');
-	print render($social_media['content']);
-	?>
-
 </footer>
+<footer id="ctaz" class="social-section">
+	<?php     $social = module_invoke('block', 'block_view', 6);
+	print render($social['content']);
+	?>
+</footer>
+</span>
 
 
 <footer id="bottom"> 
