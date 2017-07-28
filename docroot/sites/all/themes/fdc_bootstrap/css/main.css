@@ -1043,7 +1043,7 @@ footer#cta {
 
 	top: 56px;
 
-	min-height: 25px;
+	height: 29px;
 
 	padding-top: 5px;
 
@@ -1057,6 +1057,7 @@ footer#cta {
 
 	color: #006c85;
 	left: -242px;
+	text-align: center;
 }
 
 footer#ctaz {
@@ -1077,7 +1078,7 @@ footer#ctaz {
 
 	padding-top: 5px;
 
-	width: 170px;
+	width: 180px;
 
 	padding-left: 5px;
 
@@ -1087,6 +1088,7 @@ footer#ctaz {
 
 	color: #006c85;
 	left: 202px;
+	text-align: center;
 }
 .social-section a img {
 	height: 20px;
@@ -1094,7 +1096,7 @@ footer#ctaz {
 }
 
 footer#ctaz {
-	padding:0 0 5px 10px;
+	padding:0 0 5px 0;
 }
 footer#ctaz p {
 	margin:0;
