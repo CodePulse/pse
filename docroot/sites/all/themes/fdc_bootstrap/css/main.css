@@ -1101,6 +1101,10 @@ footer#ctaz {
 footer#ctaz p {
 	margin:0;
 }
+.not-front footer#ctaz p {
+	margin:0;
+	padding:0;
+}
 div.home footer#ctaz {
 	color:#fff;
 }
