@@ -1037,7 +1037,7 @@ footer#cta {
 	position: relative;
 	margin-left: 720px;
 	top: 56px;
-	height: 29px;
+	height: 27px;
 	padding-top: 5px;
 	width: 75px;
 	padding-left: 5px;
@@ -1083,7 +1083,7 @@ footer#ctaz {
 }
 
 footer#ctaz {
-	padding:0 0 5px 0;
+	padding:0 0 5px 6px;
 }
 footer#ctaz p {
 	margin:0;
